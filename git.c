@@ -2,7 +2,7 @@
 
 int main() {
 
-    printf("you are my special");
+    printf("something went wrong");
 
 
 return 0;
